@@ -1,0 +1,5 @@
+enabled-worlds:
+  - enabled-in-this-world
+jump-power-y: 1.1
+jump-power: 2
+accumulate-speed: false
